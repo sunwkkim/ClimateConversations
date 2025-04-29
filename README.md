@@ -1,5 +1,5 @@
 # Climate Conversations Archive
-> This is an archive for the Climate Conversations Seminar series organised by researchers at the University of Queensland and Queensland Treasury. Archive is in the reverse chronological order. Talk abstracts and recordings can be found below where available. Recordings are archived in a UQ Research Data Manager repository.
+> This is an archive for the Climate Conversations Seminar series organised by researchers at the University of Queensland and Queensland Treasury. Archive is in the reverse chronological order. Talk abstracts and recordings can be found below where available.
 > The seminar series is schedule to occur on the first Thursday of each month. Please contact the [seminar admin](mailto:sun.w.kim@uq.edu.au) to be added in the distribution list.
 
 ### **2025**
