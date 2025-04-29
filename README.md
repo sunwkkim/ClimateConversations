@@ -1,7 +1,6 @@
 # Climate Conversations Archive
----
 This is an archive for the Climate Conversations Seminar series organised by researchers at the University of Queensland and Queensland Treasury. Archive is in the reverse chronological order. Talk abstracts and recordings can be found below.
----
+
 ### 2025
 #### May (01/05/2025): ESP
 ##### Hong Zhang
