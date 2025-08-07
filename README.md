@@ -6,7 +6,7 @@
 #### **August (07/08/2025): *UQ***
 ##### Anthony Richardson (Professor, School of the Environment, The University of Queensland; CSIRO Environment)
 ##### Jason Everett (Senior Research Fellow, School of the Environment, The University of Queensland)
-> **Designing climate-smart marine protected areas**
+> **Designing climate-smart marine protected areas** [Talk recording](https://cloud.rdm.uq.edu.au/index.php/s/6W9do9iCTH6tx4B)
 >
 > As climate change accelerates, its impacts on marine biodiversity are becoming increasingly profound – shifting species distributions, altering ecosystem dynamics, and challenging the effectiveness of existing marine protected areas (MPAs). Retrofitting current MPAs to be climate-resilient is difficult, but the global push for 30x30 – protecting 30% of the ocean by 2030 – offers a rare opportunity to design MPAs that are climate-smart from the outset. In this talk, we present a framework for integrating CC considerations into MPA planning. We showcase new tools and datasets, including the hotrstuff package for wrangling Earth System Model outputs, and explore case studies from the Indian Ocean and Australia that reveal how climate change is impacting current MPAs. We discuss a suite of metrics – including refugia, adaptation hotspots, climate novelty, and stepping-stone connectivity – that can guide the placement of MPAs to enhance resilience and facilitate species adaptation. Finally, we demonstrate how these insights can be operationalised through shinyplanr, a decision-support tool for on-the-ground, stakeholder-driven climate-smart MPA design.
 
