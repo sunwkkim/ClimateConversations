@@ -1,8 +1,14 @@
 # Climate Conversations Archive
 > This is an archive for the Climate Conversations Seminar series organised by researchers at the University of Queensland and Queensland Treasury. Archive is in the reverse chronological order. Talk abstracts and recordings can be found below where available.
-> The seminar series is schedule to occur on the first Thursday of each month. Please contact the [seminar admin](mailto:sun.w.kim@uq.edu.au) to be added in the distribution list.
+> The seminar series is schedule to occur on the first Thursday of each month. Please contact the [seminar admin](mailto:sun.w.kim@uq.edu.au) for password to talk recordings and slide decks linked below or to be added in the distribution list.
 
 ### **2025**
+#### **September (04/09/2025): *ESP***
+##### Hong Zhang (Senior Scientist, Industry Strategy and Climate, Queensland Treasury)
+> **Evaluation of evapotranspiration estimates and projection of its change in downscaled high-resolution CMIP6 simulations in Australia**
+>
+> In this talk, I will present the effects of climate change on evapotranspiration (ET) in Australia, focusing on actual and potential evapotranspiration (AET/PET). Using high-resolution climate models, ET changes from 1980 to 2100 were assessed under three emission scenarios. Findings reveal that AET generally decreases except for a minor increase under the highest emissions, with PET increasing across all scenarios. The accuracy of model-derived AET was validated against observational data. We confirm that precipitation and solar radiation are key factors influencing AET in Australia's changing climate, whereas for changes in PET solar radiation and maximum temperature are key factors.
+
 #### **August (07/08/2025): *UQ***
 ##### Anthony Richardson (Professor, School of the Environment, The University of Queensland; CSIRO Environment)
 ##### Jason Everett (Senior Research Fellow, School of the Environment, The University of Queensland)
