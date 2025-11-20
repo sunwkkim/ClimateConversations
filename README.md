@@ -3,6 +3,18 @@
 > The seminar series is schedule to occur on the first Thursday of each month. Please contact the [seminar admin](mailto:sun.w.kim@uq.edu.au) for password to talk recordings and slide decks linked below or to be added in the distribution list.
 
 ### **2025**
+#### **November (04/09/2025): *ESP***
+##### Youngil Kim (Postdoctoral Research Associate, The University of New South Wales)
+> **Toward accurate high-resolution simulations: multivariate bias correction in RCM boundaries**
+>
+> High-resolution hydro-climatological simulations are critical for evaluating changes in extreme events. While global climate models (GCMs) effectively represent precipitation patterns at daily or longer timescales, their coarse spatial and temporal resolution limits their utility at regional and catchment scales. To overcome these limitations, regional climate models (RCMs) are commonly used to dynamically downscale GCM outputs. However, biases in the forcing fields can compromise the reliability of RCM simulations. Hence, this study undertakes a comprehensive evaluation of multivariate bias correction applied to RCM inputs for simulating hydrologic extremes. This method, which adjusts inter-variable dependencies among atmospheric fields, has shown promise in improving the representation of extreme precipitation and compound events. We employ the Weather Research and Forecasting (WRF) model with dynamical core (ARW), version 4.2.1, driven by bias-corrected inputs from the Coupled Model Intercomparison Project Phase 6 (CMIP6). ERA5 reanalysis data from the European Centre for Medium-Range Weather Forecasts (ECMWF) serves as the observational reference for bias correction. Simulations are conducted over the Australasian domain of the Coordinated Regional Climate Downscaling Experiment (CORDEX). This framework enhances the fidelity of regional climate projections and supports improved assessments of hydrologic extremes under future climate scenarios.
+
+#### **October (04/09/2025): *UQ***
+##### Sarah Chapman (Principal Scientist, Industry Strategy and Climate, Queensland Treasury)
+> **Impact of climate change on severe convective environments in Australia using high-resolution, dynamically-downscaled climate models**
+>
+> Severe convective storms cause severe damage to urban and agricultural areas in Australia. The impact of climate change on these events is unclear due to competing changes in atmospheric instability, vertical wind shear and convective inhibition. In this talk, I present work using dynamically downscaled climate models to look at the environments in which severe storms occur, and how these change with climate change. We found large model agreement and increases in severe convective storms in summer across most areas in Australia, including most capital cities and agricultural regions. Increases to hail environments were less certain, and concentrated in south-western Australia.
+
 #### **September (04/09/2025): *ESP***
 ##### Hong Zhang (Senior Scientist, Industry Strategy and Climate, Queensland Treasury)
 > **Evaluation of evapotranspiration estimates and projection of its change in downscaled high-resolution CMIP6 simulations in Australia**
